@@ -4,7 +4,12 @@
 📦 Project Overview
 🌾 The Farmer Market App is a platform that connects farmers (sellers) directly with customers, allowing farmers to list their products and customers to browse and purchase them. This app simplifies the process of buying fresh produce directly from farmers, providing a marketplace where sellers can manage their listings, and buyers can easily search for products.
 
+
+
 ✨ Features
+
+
+
 🧑‍🌾 Farmer (Seller) Dashboard: Farmers can add, edit, and view their product listings.
 👥 User Roles: Supports both sellers and customers with different interfaces.
 🔍 Product Search: Customers can browse available products and view seller details.
@@ -15,6 +20,9 @@
 
 
 ⚙️ Prerequisites
+
+
+
 🐍 Python 3.x
 📦 Flask (for web development)
 📦 pymongo (for MongoDB connection)
@@ -32,11 +40,19 @@ cd farmer-market-app
 
 Install Dependencies:
 
+
+
+
 pip install Flask pymongo
 Set Up MongoDB: Make sure MongoDB is running on your local machine or set up a MongoDB cloud instance.
 
 
 # For local setup, start MongoDB server:
+
+
+
+
+
 mongod
 Run the Application:
 python app.py
