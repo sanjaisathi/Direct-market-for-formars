@@ -53,6 +53,8 @@ Set Up MongoDB: Make sure MongoDB is running on your local machine or set up a M
 
 
 
+
+
 mongod
 Run the Application:
 python app.py
